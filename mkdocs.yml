@@ -1,0 +1,17 @@
+site_name: Conferia
+site_url: https://www.conferia.net
+
+nav:
+  - Conferia: index.md
+
+theme:
+  name: material
+  palette:
+    primary: lime
+  features:
+    
+  icon:
+    logo: material/home
+
+markdown_extensions:
+  - attr_list
