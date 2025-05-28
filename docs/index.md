@@ -30,7 +30,7 @@ Below you can find the instructions for installing the Conferia app on your mobi
 
 ### Installation instructions for Android
 
-The default Chrome browser is capable of installing the ICPM App. First, navigate to the application URL of the conference using Chrome. Press the "three dots" icon in the upper right to open the menu. Select "Add to Home screen." Press the "Add" button in the popup. The ICPM App is now installed and available on your home screen.
+The default Chrome browser is capable of installing the Conferia App. First, navigate to the application URL of the conference using Chrome. Press the "three dots" icon in the upper right to open the menu. Select "Add to Home screen." Press the "Add" button in the popup. The Conferia App is now installed and available on your home screen.
 
 ![](img/android.png)
 
