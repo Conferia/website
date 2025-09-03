@@ -19,6 +19,7 @@ Conferia is an open app to help people during events. The current set of feature
 
 Conferia has been used at the following conferences:
 
+* [BPM 2025](https://www.bpm2025seville.org/)
 * [ICPM 2024](https://icpmconference.org/2024/)
 
 
@@ -45,7 +46,7 @@ The Conferia app can only be installed on iOS using the Safari browser. First, n
 
 ## Contact information
 
-Conferia is a project developed at the Technical University of Denmark. For further information you can contact
+Conferia is a project developed at the Technical University of Denmark. For further information you can contact:
 
 Andrea Burattin  
 <https://andrea.burattin.net>  
