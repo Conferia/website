@@ -3,6 +3,8 @@ hide:
   - navigation
 ---
 
+<img src="img/conferia-logo.svg" style="float: right; height: 150px;" />
+
 # Conferia
 
 Conferia is an open app to help people during events. The current set of features includes:
