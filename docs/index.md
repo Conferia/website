@@ -21,6 +21,7 @@ Conferia is an open app to help people during events. The current set of feature
 
 Conferia has been used at the following conferences:
 
+* [Modellierung 2026](https://www.modellierung-2026.uni-bayreuth.de/en/)
 * [BPM 2025](https://www.bpm2025seville.org/)
 * [ICPM 2024](https://icpmconference.org/2024/)
 
